@@ -1,0 +1,30 @@
+h1{
+				color: #CEC9FF; /*色票RGB ff=R 00=G 00=B*/
+
+
+
+			}
+			h3{
+				color: #94A7E3;
+
+
+			}
+			a{
+				font-size: 20px;
+				/* px 像素(相對性的 根據螢幕解析度變動) pt: dpi像素 1/72英吋 
+				em :字型的主體大小*/
+				text-decoration: none; /*不要有底線*/
+				color: #9DC4E0;
+
+
+			}
+			body{
+				/*讓body裡全部的東西都吃一樣的屬性,有另外想指定的再另外寫出來*/
+				color: #001061;
+				font-size: 30px;
+				font-family: Arial,微軟正黑體; /*常用字形: sans-serif Arial 無襯線體,微軟正黑體,  */ ;
+
+
+
+
+			}

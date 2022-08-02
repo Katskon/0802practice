@@ -1,0 +1,7 @@
+body{
+		/*讓body裡全部的東西都吃一樣的屬性,有另外想指定的再另外寫出來*/
+		color: #665D4D;
+		font-size: 20px;
+		font-family: Arial,微軟正黑體; /*常用字形: sans-serif Arial 無襯線體,微軟正黑體,  */ ;
+
+}
